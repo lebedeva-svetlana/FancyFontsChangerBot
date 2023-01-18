@@ -12,3 +12,7 @@ Fancy fonts changer bot for Telegram.
 - Ƀ ⵖѦƜѦⵋ ⵚⵤѦ ⵅⵍⴷ ⵒѣ ⵡⵍⵜᎮᖿⵎ? ⵠѦ, ⴼⵔ ⵀѦⴷѣᗐⵍɃѣⵍ ⴺҞᕒⵟᗑगⴷⴳᎮ!
 - ᙖ ᔦᗣᘺᗣⵋ ᕡᒋᗣ ᙧᑌᙁ ᘜᕠ ᘈᑌᙢᖘᎽᙅ? ᗪᗣ, ᕼᗝ ᙨᗣᙁᖚᗯᑌᙖᕠᕫ ᑓᏦᙐᙓᗰᑎᙁᖆᖘ!
 - Ɓ ӌѧѱѧχ ѥґѧ ѫџʌ ѣƀ ҵџϯⱀƴҁ? Гѧ, ʜѳ ѻѧʌƀɯџʙƀӣ ϶κӡєʍπʌᴙⱀ!
+
+## Credits
+
+Third-party libraries: [telegraf](https://github.com/influxdata/telegraf) licensed with MIT, [dotenv](https://github.com/motdotla/dotenv) licensed with BSD-2-Clause.
