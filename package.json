@@ -1,0 +1,10 @@
+{
+  "name": "fancy-fonts-changer-bot",
+  "version": "1.0.0",
+  "description": "FancyFontsChangerBot",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.11.2"
+  }
+}
